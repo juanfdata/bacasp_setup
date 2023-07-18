@@ -1,0 +1,31 @@
+Solution:
+Vessel 1, length: 12, position: 29, start: 6, end: 15, ncranes: 1, cranes: 5
+Vessel 2, length: 26, position: 3, start: 6, end: 17.5, ncranes: 4, cranes: 1 2 3 4
+Vessel 3, length: 20, position: 29, start: 15.17, end: 25.17, ncranes: 1, cranes: 5
+Vessel 4, length: 25, position: 4, start: 17.652, end: 26.252, ncranes: 4, cranes: 1 2 3 4
+Vessel 5, length: 29, position: 2, start: 26.402, end: 37.002, ncranes: 4, cranes: 1 2 3 4
+Vessel 6, length: 16, position: 33, start: 27, end: 40, ncranes: 1, cranes: 5
+Vessel 7, length: 18, position: 7, start: 37.155, end: 44.155, ncranes: 2, cranes: 1 2
+Vessel 8, length: 26, position: 25, start: 40.165, end: 49.065, ncranes: 3, cranes: 3 4 5
+Vessel 9, length: 11, position: 14, start: 44.322, end: 48.122, ncranes: 2, cranes: 1 2
+Vessel 10, length: 14, position: 8, start: 50, end: 52.7, ncranes: 2, cranes: 4 5
+Vessel 11, length: 21, position: 11, start: 52.7, end: 55.9, ncranes: 2, cranes: 1 2
+Vessel 12, length: 20, position: 17, start: 60, end: 62.7, ncranes: 2, cranes: 1 2
+Vessel 13, length: 26, position: 22.5, start: 65, end: 80.3, ncranes: 3, cranes: 3 4 5
+Vessel 14, length: 15, position: 7.5, start: 75, end: 80.9, ncranes: 2, cranes: 1 2
+Vessel 15, length: 24, position: 3, start: 81.05, end: 95.15, ncranes: 4, cranes: 1 2 3 4
+Vessel 16, length: 30, position: 10, start: 95.35, end: 105.15, ncranes: 4, cranes: 2 3 4 5
+Vessel 17, length: 19, position: 27, start: 89, end: 95, ncranes: 1, cranes: 5
+Vessel 18, length: 9, position: 1, start: 100, end: 114, ncranes: 1, cranes: 1
+Vessel 19, length: 14, position: 32, start: 117, end: 124, ncranes: 1, cranes: 5
+Vessel 20, length: 20, position: 7, start: 127, end: 132.4, ncranes: 2, cranes: 1 2
+Vessel 21, length: 38, position: 12, start: 132.62, end: 145.52, ncranes: 5, cranes: 1 2 3 4 5
+Vessel 22, length: 24, position: 1, start: 145.76, end: 157.26, ncranes: 4, cranes: 1 2 3 4
+Vessel 23, length: 37, position: 1, start: 190.917, end: 205.017, ncranes: 5, cranes: 1 2 3 4 5
+Vessel 24, length: 33, position: 18, start: 157.837, end: 173.937, ncranes: 4, cranes: 2 3 4 5
+Vessel 25, length: 19, position: 25, start: 145.687, end: 157.687, ncranes: 1, cranes: 5
+Vessel 26, length: 15, position: 3, start: 157.422, end: 167.422, ncranes: 1, cranes: 1
+Vessel 27, length: 28, position: 1, start: 174.745, end: 190.745, ncranes: 3, cranes: 1 2 3
+Vessel 28, length: 21, position: 29, start: 180.162, end: 186.562, ncranes: 2, cranes: 4 5
+Vessel 29, length: 21, position: 29, start: 174.112, end: 180.012, ncranes: 2, cranes: 4 5
+Vessel 30, length: 14, position: 4, start: 167.575, end: 174.575, ncranes: 1, cranes: 1
